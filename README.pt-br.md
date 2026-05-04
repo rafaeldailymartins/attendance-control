@@ -7,6 +7,12 @@ O **Attendance Control** é um projeto de controle de presença de pessoas em am
 
 O sistema foi projetado incialmente como um projeto de faculdade para funcionar em empresas do **Movimento Empresa Júnior** ([MEJ](https://brasiljunior.org.br/conheca-o-mej)), as quais possuiam necessidades de controle de presença específicas, entretanto o projeto está sendo inteiramente refatorado para abranger quaisquer tipos de organizações.
 
+## 📸 Screenshots
+![Tela de Ponto](images/Clock.png)
+![Tela de Relátorio de Faltas](images/Abscences.png)
+![Tela de Registro de Ponto](images/ClockDialog.png)
+![Tela de Edição de Usuário](images/UserEdit.png)
+
 
 ## 📋 Dependências
 

@@ -7,6 +7,12 @@
 
 The system was initially designed as a college project to serve companies from [**Junior Enterprises Movement**](https://www.juniorenterprises.org/), which had specific attendance control needs. However, it is now being completely refactored to support any type of organization.
 
+## 📸 Screenshots
+![Time Tracking Screen](images/Clock.png)
+![Absence Report Screen](images/Abscences.png)
+![Time Entry Screen](images/ClockDialog.png)
+![User Edit Screen](images/UserEdit.png)
+
 ## 📋 Dependencies
 
 - [Docker](https://www.docker.com/)
