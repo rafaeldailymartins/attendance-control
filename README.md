@@ -29,6 +29,26 @@ To run the project locally for development with auto-reload enabled, simply run:
 $ docker compose up --watch
 ```
 
+## 📚 API Documentation
+
+This project provides automatically generated interactive documentation.
+
+After starting the application, access:
+
+```
+http://localhost:8000/docs
+```
+
+There you will be able to:
+
+* View all available endpoints
+* Test requests directly in the browser
+* See parameters, responses, and examples
+
+> 💡 The documentation is based on the OpenAPI standard (Swagger UI)
+
+![OpenAPI Documentation](images/OpenAPI.png)
+
 ## 📦 Deployment
 For production, first change the `ENV` environment variable in your `.env` file to:
 ```env
