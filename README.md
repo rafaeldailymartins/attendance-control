@@ -11,6 +11,24 @@ The system was initially designed as a college project to serve companies from [
 
 - [Docker](https://www.docker.com/)
 
+## 🚀 Running locally
+
+First, clone the repository and navigate to the project directory:
+
+```console
+$ git clone https://github.com/rafaeldailymartins/attendance-control.git
+$ cd attendance-control
+```
+
+Create a new `.env` file in the project root containing the required environment variables.
+You can use the `.env.template` file as a reference. Remember to change all secret keys for security reasons — in the template they are set to `changethis`.
+
+To run the project locally for development with auto-reload enabled, simply run:
+
+```console
+$ docker compose up --watch
+```
+
 ## 📦 Deployment
 For production, first change the `ENV` environment variable in your `.env` file to:
 ```env
